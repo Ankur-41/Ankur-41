@@ -2,72 +2,73 @@
 <p>A Data Science Intern</p>
 <h2>🚀 Languages and Tools I Use</h2>
 
-<table>
+<table style="width:100%; max-width:900px; border-collapse:collapse; font-size:16px;">
   <tr>
-    <th>Category</th>
-    <th>Tools</th>
+    <th style="text-align:left; padding:12px;">Category</th>
+    <th style="text-align:left; padding:12px;">Tools</th>
   </tr>
 
   <tr>
-    <td>Programming</td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+    <td style="padding:12px;">Programming</td>
+    <td style="padding:12px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34"/>
     </td>
   </tr>
 
   <tr>
-    <td>Databases</td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/>
+    <td style="padding:12px;">Databases</td>
+    <td style="padding:12px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="34"/>
     </td>
   </tr>
 
   <tr>
-    <td>Data Analysis</td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30"/>
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30"/>
+    <td style="padding:12px;">Data Analysis</td>
+    <td style="padding:12px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="34"/>
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="34"/>
     </td>
   </tr>
 
   <tr>
-    <td>Data Visualization / BI</td>
-    <td>
-      <img src="https://img.icons8.com/color/48/power-bi.png" width="30"/>
-      <img src="https://img.icons8.com/color/48/tableau-software.png" width="30"/>
+    <td style="padding:12px;">Data Visualization / BI</td>
+    <td style="padding:12px;">
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="34"/>
+      <img src="https://img.icons8.com/color/48/tableau-software.png" width="34"/>
     </td>
   </tr>
 
   <tr>
-    <td>Machine Learning</td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30"/>
+    <td style="padding:12px;">Machine Learning</td>
+    <td style="padding:12px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="34"/>
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="34"/>
     </td>
   </tr>
 
   <tr>
-    <td>Backend / API</td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="30"/>
+    <td style="padding:12px;">Backend / API</td>
+    <td style="padding:12px;">
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="34"/>
     </td>
   </tr>
 
   <tr>
-    <td>Automation</td>
-    <td>
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="30"/>
+    <td style="padding:12px;">Automation</td>
+    <td style="padding:12px;">
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="34"/>
     </td>
   </tr>
 
   <tr>
-    <td>Web Technologies</td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
+    <td style="padding:12px;">Web Technologies</td>
+    <td style="padding:12px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="34"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="34"/>
     </td>
   </tr>
 </table>
+
 
 
 <h2>⚡️ Where to find me</h2>
