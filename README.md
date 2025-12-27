@@ -2,48 +2,75 @@
 <p>A Data Science Intern</p>
 <h2>🚀 Languages and Tools I Use</h2>
 
-<table border="1" cellpadding="8" cellspacing="0">
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Programming</td>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td>Databases</td>
-      <td>SQL</td>
-    </tr>
-    <tr>
-      <td>Data Analysis</td>
-      <td>Pandas, Seaborn</td>
-    </tr>
-    <tr>
-      <td>Data Visualization / BI</td>
-      <td>Power BI, Tableau</td>
-    </tr>
-    <tr>
-      <td>Machine Learning</td>
-      <td>Scikit-learn, TensorFlow</td>
-    </tr>
-    <tr>
-      <td>Automation</td>
-      <td>Selenium</td>
-    </tr>
-    <tr>
-      <td>Backend / API</td>
-      <td>Flask</td>
-    </tr>
-    <tr>
-      <td>Web Technologies</td>
-      <td>HTML, CSS</td>
-    </tr>
-  </tbody>
+<h2>🚀 Languages and Tools I Use</h2>
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tools</th>
+  </tr>
+
+  <tr>
+    <td>Programming</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Databases</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Data Analysis</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30"/>
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Data Visualization / BI</td>
+    <td>
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="30"/>
+      <img src="https://img.icons8.com/color/48/tableau-software.png" width="30"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Machine Learning</td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/>
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Backend / API</td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="30"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Automation</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="30"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Web Technologies</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
+    </td>
+  </tr>
 </table>
+
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://x.com/@ankur_41" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
