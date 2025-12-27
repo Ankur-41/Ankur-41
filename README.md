@@ -2,8 +2,6 @@
 <p>A Data Science Intern</p>
 <h2>🚀 Languages and Tools I Use</h2>
 
-<h2>🚀 Languages and Tools I Use</h2>
-
 <table>
   <tr>
     <th>Category</th>
